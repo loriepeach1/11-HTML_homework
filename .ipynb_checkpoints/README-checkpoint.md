@@ -6,9 +6,10 @@ This assignment was to build a responsive website using a bootstap HTML 5.0 temp
 
 ## Tool & Technologies Used: 
 
-Bootstrap Templates
+* Bootstrap Templates
+* HTML 5.0
+* CSS
  
-
 
 ## To Execute
 <br>Download the files
