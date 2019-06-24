@@ -2,7 +2,7 @@
 
 ![Latitude Weather Analysis](ReadMeImages/homepage.png)
 
-This assignment was to build a responsive website using a bootstap HTML 5.0 template.   There must be a navigation bar with a dropdown menu, and all data must be displayed.
+This assignment was to build a responsive website using a bootstap HTML 5.0 template.   Requirements are outlined below.
 
 ## Tool & Technologies Used: 
 
@@ -13,14 +13,6 @@ Bootstrap Templates
 ## To Execute
 <br>Download the files
 <br>View index.html
-
-# Screen Images
-
-![mission_to_mars](Images/results1.png)
-<br>
-![mission_to_mars](Images/results2.png)
-<br>
-![mission_to_mars](Images/results3.png)
 
 ## Website Requirements
 
