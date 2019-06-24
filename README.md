@@ -1,4 +1,4 @@
-# Bootstrap HTML
+# Bootstrap Responsive HTML Site
 
 ![Latitude Weather Analysis](ReadMeImages/homepage.png)
 
